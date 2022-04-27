@@ -3,4 +3,4 @@ Blackjack software that can be played in the console. Classes made for the Deck,
 
 |Blackjack Round Example|
 |:---------------------:|
-|<a href="url"><img src="Assets/BlackjackGame.gif" align="" height="100%" width="100%" ></a>|
+|<a href="Assets/BlackjackGame.gif"><img src="Assets/BlackjackGame.gif" align="" height="100%" width="100%" ></a>|
